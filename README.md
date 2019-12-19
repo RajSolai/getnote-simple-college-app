@@ -3,7 +3,8 @@ This app is an simple app to download college study materials
 
 # made with
 ionic framework<br>
-cordova build
+cordova build<br>
+and also :heart:
 
 # requirements
 ionic<br>android sdk build & platform tools<br>cordova<br>Java Development Kit<br>and Hope :-)
@@ -33,7 +34,6 @@ cordova-plugin-whitelist 1.3.3 "Whitelist"<br>
 #### Admob (Google ads) can be added if you want in the app <br> msraj085@gmail.com <br> mail me for the code or soon i will update the code<br>
 
 # Screenshots
-<img src="https://drive.google.com/open?id=1FXKaVwmYMH7Y8HvPr8Qnd9A0pEXSaPgi">
 <img src="">
 
 # Sample apk
