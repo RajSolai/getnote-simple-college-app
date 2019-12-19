@@ -4,10 +4,12 @@ import { Platform } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
 
+
+
 @Component({
   selector: 'app-root',
   templateUrl: 'app.component.html',
-  styleUrls: ['app.component.scss']
+  styleUrls: ['app.component.scss' , 'mytheme.scss']
 })
 export class AppComponent {
   public appPages = [
@@ -17,16 +19,36 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
+      title: 'CSE',
+      url: '/csemain',
+      icon: 'home'
+    },
+    {
+      title: 'IT',
+      url: '/it',
+      icon: 'home'
+    },
+    {
+      title: 'MECH',
+      url: '/mech',
+      icon: 'home'
+    },
+    {
+      title: 'EEE',
+      url: '/eee',
+      icon: 'home'
+    },
+    {
+      title: 'ECE',
+      url: '/ece',
+      icon: 'home'
     }
   ];
 
   constructor(
     private platform: Platform,
     private splashScreen: SplashScreen,
-    private statusBar: StatusBar
+    private statusBar: StatusBar,
   ) {
     this.initializeApp();
   }
@@ -35,6 +57,10 @@ export class AppComponent {
     this.platform.ready().then(() => {
       this.statusBar.styleDefault();
       this.splashScreen.hide();
+      this.statusBar.overlaysWebView(false);
     });
+
+    
+    }
   }
-}
+
