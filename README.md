@@ -34,6 +34,6 @@ cordova-plugin-whitelist 1.3.3 "Whitelist"<br>
 #### Admob (Google ads) can be added if you want in the app <br> msraj085@gmail.com <br> mail me for the code or soon i will update the code<br>
 
 # Screenshots
-![Home Screen of the app](aa.jpg)![Home Screen of the app](bb.jpg)![Home Screen of the app](cc.jpg)
+<img src="aa.jpg">
 # Sample apk
 The sample apk is found in **src/dist/sampledebug.apk**
