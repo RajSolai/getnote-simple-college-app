@@ -35,3 +35,6 @@ cordova-plugin-whitelist 1.3.3 "Whitelist"<br>
 # Screenshots
 <img src="https://drive.google.com/open?id=1FXKaVwmYMH7Y8HvPr8Qnd9A0pEXSaPgi">
 <img src="">
+
+# Sample apk
+The sample apk is found in **src/dist/sampledebug.apk**
