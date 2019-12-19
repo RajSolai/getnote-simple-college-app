@@ -10,7 +10,7 @@ and also :heart:
 The sample apk is found in **src/dist/sampledebug.apk** scroll down for screenshots
 
 # requirements
-ionic<br>android sdk build & platform tools<br>cordova<br>Java Development Kit<br>and Hope :-)
+ionic<br>android sdk build & platform tools<br>cordova<br>Java Development Kit<br>and Hope :hugs:
 
 # cordova/ionic plugins added
 cordova-plugin-androidx 1.0.2 "cordova-plugin-androidx"<br>
