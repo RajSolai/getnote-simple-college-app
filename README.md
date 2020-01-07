@@ -6,8 +6,11 @@ ionic framework<br>
 cordova build<br>
 and also :heart:
 
+# Sample apk
+The sample apk is found in **src/dist/sampledebug.apk** scroll down for screenshots
+
 # requirements
-ionic<br>android sdk build & platform tools<br>cordova<br>Java Development Kit<br>and Hope :-)
+ionic<br>android sdk build & platform tools<br>cordova<br>Java Development Kit<br>and Hope :hugs:
 
 # cordova/ionic plugins added
 cordova-plugin-androidx 1.0.2 "cordova-plugin-androidx"<br>
@@ -34,7 +37,4 @@ cordova-plugin-whitelist 1.3.3 "Whitelist"<br>
 #### Admob (Google ads) can be added if you want in the app <br> msraj085@gmail.com <br> mail me for the code or soon i will update the code<br>
 
 # Screenshots
-<img src="aa.jpg">
-
-# Sample apk
-The sample apk is found in **src/dist/sampledebug.apk**
+<div style="display:flex;"><img src="aa.jpg" height="650"></div><img src="bb.jpg" height="650"><img src="cc.jpg" height="650">
