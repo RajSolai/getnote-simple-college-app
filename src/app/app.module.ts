@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouteReuseStrategy } from '@angular/router';
-
+import { AdMobFree, AdMobFreeBannerConfig, AdMobFreeBanner } from '@ionic-native/admob-free/ngx';
 import { IonicModule, IonicRouteStrategy } from '@ionic/angular';
 import { SplashScreen } from '@ionic-native/splash-screen/ngx';
 import { StatusBar } from '@ionic-native/status-bar/ngx';
@@ -32,7 +32,9 @@ import { NavController } from '@ionic/angular';
     FileTransfer,
     ToastController,
     FileOpener,
-    NavController
+    NavController,
+    AdMobFree,
+    AdMobFreeBanner
   ],
   bootstrap: [AppComponent]
 })
